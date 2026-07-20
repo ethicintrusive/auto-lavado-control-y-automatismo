@@ -1,8 +1,8 @@
-# auto-lavado-control-y-automatizacion
+# Auto-lavado_control-y-automatizacion
 
 ## Nombre del proyecto
 
-Auto-lavado: Control y automatización
+Auto-lavado_Control-y-automatización
 
 ## Problema del negocio
 
