@@ -1,25 +1,40 @@
-# auto-lavado-control-y-automatización
-------Nombre del proyecto-------
-Auto-lavado: Control y automatizaciom
------Problema del negocio-----
-Quejas de clientes por falta de atencion
-Falta de control sobre el flujo de trabajo
-Tiempos del trabajo sin estandarizar
-Ausencia de informe sobre estado del auto actual
-------Objetivos del negocio----
-Tener atencion por orden de llegada
-controlar el flujo de trabajo 
-Estandarizar tiempos de trabajo 
-Informar el estado del auto actual
-----------Reglas de negocio--------
-Contabilizar llegadas para que haya orden.
-determinar el flujo completo de trabajo.
-Fijar tiempo de trabajo y clasificar la duracion segun tamaños de vehiculo de manera automatica 
-hacer informe breve y descriptivo sobre el estado del auto actual
------------Arquitectura-------
-Pagina web con sistema de contabilizacion automatica registro y notificacion de estado de auto actua
-y validacion de tiempo de trabajo cumplido o exedido
-----------tecnologias--------
-html, css y Javascript
-----------Mejoras futuras-----
-Sistema de notificacion inteligente de estado del vehiculo por whatsapp
+# auto-lavado-control-y-automatizacion
+
+## Nombre del proyecto
+
+Auto-lavado: Control y automatización
+
+## Problema del negocio
+
+- Quejas de clientes por falta de atención.
+- Falta de control sobre el flujo de trabajo.
+- Tiempos de trabajo sin estandarizar.
+- Ausencia de informes sobre el estado actual del automóvil.
+
+## Objetivos del negocio
+
+- Tener atención por orden de llegada.
+- Controlar el flujo de trabajo.
+- Estandarizar los tiempos de trabajo.
+- Informar el estado actual del automóvil.
+
+## Reglas de negocio
+
+- Contabilizar las llegadas para mantener el orden.
+- Determinar el flujo completo de trabajo.
+- Fijar tiempos de trabajo y clasificar su duración según el tamaño del vehículo de manera automática.
+- Generar un informe breve y descriptivo sobre el estado actual del automóvil.
+
+## Arquitectura
+
+Página web con un sistema de contabilización automática, registro y notificación del estado actual del automóvil, y validación del tiempo de trabajo cumplido o excedido.
+
+## Tecnologías
+
+- HTML
+- CSS
+- JavaScript
+
+## Mejoras futuras
+
+- Sistema inteligente de notificaciones del estado del vehículo mediante WhatsApp.
